@@ -30,9 +30,9 @@ Figure. 2. The architecture of our proposed recurrent rain detection and removal
 # 2 Download
 * Paper: [arXiv](https://arxiv.org/abs/1609.07769) [CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)
 * Codes: [Download](http://www.icst.pku.edu.cn/struct/att/demo_JORDER_release.zip) [Download(Baidu Cloud)](https://pan.baidu.com/s/1hsgseck)
-* Testing Data: Rain100H Rain100L Practical Rain100H(Baidu Cloud) Rain100L(Baidu Cloud) Practical(Baidu Cloud)
-* Training Data: Train100H Train100L Train100H(Baidu Cloud) Train100L(Baidu Cloud)
-* Results: Rain100L Rain100H Practical Rain100L(Baidu Cloud) Rain100H(Baidu Cloud) Practical(Baidu Cloud)
+* Testing Data: [Rain100H](http://www.icst.pku.edu.cn/struct/att/Rain100H.zip) [Rain100L](http://www.icst.pku.edu.cn/struct/att/Rain100L.zip) [Practical](http://www.icst.pku.edu.cn/struct/att/Practical.zip) Rain100H(Baidu Cloud) Rain100L(Baidu Cloud) Practical(Baidu Cloud)
+* Training Data: [Train100H](http://www.icst.pku.edu.cn/struct/att/RainTrainH.zip) [Train100L](http://www.icst.pku.edu.cn/struct/att/RainTrainL.zip) Train100H(Baidu Cloud) Train100L(Baidu Cloud)
+* Results: [Rain100L](http://www.icst.pku.edu.cn/struct/att/Rain100L_JORDER.zip) [Rain100H](http://www.icst.pku.edu.cn/struct/att/Rain100H_JORDER.zip) [Practical](http://www.icst.pku.edu.cn/struct/att/Practical_JORDER.zip) Rain100L(Baidu Cloud) Rain100H(Baidu Cloud) Practical(Baidu Cloud)
 
 # 3 Citation
 @article{Yang2017RainRemoval,
